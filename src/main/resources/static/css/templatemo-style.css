@@ -332,6 +332,9 @@ https://templatemo.com/tm-516-known
     border-color: transparent;
   }
 
+  .navbar-brand > img {
+  	width : 120px;
+  }
 
 
   /*---------------------------------------
